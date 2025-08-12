@@ -5,13 +5,14 @@ Jeg har interesser for koding knyttet til å lære og utforske nye ideer samt å
 
 ## Språk og verktøy
   
-C#, Ruby, JavaScript, HTML, CSS, GitHub, Unity, VS, VSC, Photoshop
+C#, Ruby, JavaScript, HTML, CSS, Python, GitHub, Unity, VS, VSC, Photoshop
 
 [![Csharp](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
+[![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
 [![Unity](https://skillicons.dev/icons?i=unity)](https://skillicons.dev)
 [![VisualStudio](https://skillicons.dev/icons?i=visualstudio)](https://skillicons.dev)

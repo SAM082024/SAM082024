@@ -1,6 +1,8 @@
-Hei, jeg heter Michael, og er foreløpig en backend student på Kodehode.
+Hei, mitt navn er Michael. 
+Jeg er 20 år og har interesse for koding knyttet til å lage egne dataspill, og formålet mitt er både å lære, men også utforske nye løsninger og ideer.
+Da jeg begynte å lære, interesserte jeg meg i spillmotoren Unity,  hvor programmeringsspråket var C#. Senere tok jeg et backend-kurs i C# gjennom Kodehode (JobLoop).
+I tillegg til dette har jeg plukket opp flere språk på veien, f.eks. HTML, CSS, JavaScript, Python og Ruby.
 
-Jeg har interesser for koding knyttet til å lære og utforske nye ideer samt å lage egne videospill. På Kodehode arbeider jeg mest med kodespråket C# (CSharp), men har også grunnleggende kunnskap i HTML, CSS og JavaScript. I tillegg til dette, jobber jeg med spillutvikling prosjekter i Unity på fritiden.
 <hr>
 
 ## Språk og verktøy

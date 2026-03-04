@@ -12,6 +12,7 @@ C#, Ruby, JavaScript, HTML, CSS, Python, GitHub, Unity, VS, VSC, Photoshop
 [![Csharp](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://skillicons.dev)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://skillicons.dev)
 [![HTML](https://skillicons.dev/icons?i=html)](https://skillicons.dev)
 [![CSS](https://skillicons.dev/icons?i=css)](https://skillicons.dev)
 [![Python](https://skillicons.dev/icons?i=python)](https://skillicons.dev)

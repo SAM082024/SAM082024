@@ -7,7 +7,7 @@ I tillegg til dette har jeg plukket opp flere språk på veien, f.eks. HTML, CSS
 
 ## Språk og verktøy
   
-C#, Ruby, JavaScript, HTML, CSS, Python, GitHub, Unity, VS, VSC, Photoshop
+C#, Ruby, JavaScript, TypeScript, HTML, CSS, Python, GitHub, Unity, VS, VSC, Photoshop
 
 [![Csharp](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
 [![Ruby](https://skillicons.dev/icons?i=ruby)](https://skillicons.dev)
